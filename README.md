@@ -18,3 +18,6 @@ This is project for Elbrus bootcamp ds-phase-2
 ## Toxicometria
 
 ## Text generating
+
+## Service is available by link
+https://huggingface.co/spaces/alizhgir/ds-prj-10-w
