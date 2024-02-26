@@ -20,4 +20,4 @@ This is project for Elbrus bootcamp ds-phase-2
 ### Text generating
 
 ## Service is available by link
-https://huggingface.co/spaces/alizhgir/ds-prj-10-w
+https://huggingface.co/spaces/Solar-Iz/ds-prj-10-w
